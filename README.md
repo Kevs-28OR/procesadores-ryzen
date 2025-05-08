@@ -1,18 +1,37 @@
-# procesadores-ryzen
 # Procesadores Ryzen
 
+<p align="center">
+  <img src="https://github.com/Kevs-28OR/procesadores-ryzen/blob/main/png-transparent-ryzen-hd-logo-thumbnail.png" alt="Logo Ryzen" width="300"/>
+</p>
 
+Los procesadores **Ryzen** de AMD son conocidos por ofrecer **alto rendimiento a precios competitivos**. Fueron lanzados por primera vez en **2017** y desde entonces han revolucionado el mercado de CPUs para **entusiastas**, **gamers** y **profesionales**.
 
-Los procesadores Ryzen de AMD son conocidos por ofrecer alto rendimiento a precios competitivos. Fueron lanzados por primera vez en 2017 y desde entonces han revolucionado el mercado de CPUs para entusiastas, gamers y profesionales.
+---
 
-## Contenido del repositorio
+## 📂 Contenido del repositorio
 
-[ARCHIVO PDF ](https://github.com/Kevs-28OR/procesadores-ryzen/blob/main/20659635A_la_AMD_Ryzen_5000_Series_Processors_QRG.pdf)
-![IMAGEN](https://github.com/Kevs-28OR/procesadores-ryzen/blob/main/png-transparent-ryzen-hd-logo-thumbnail.png)
+- 📄 [`resumen.txt`](resumen.txt): Breve resumen en texto plano sobre los procesadores Ryzen.  
+- 🧠 [`20659635A_la_AMD_Ryzen_5000_Series_Processors_QRG.pdf`](https://github.com/Kevs-28OR/procesadores-ryzen/blob/main/20659635A_la_AMD_Ryzen_5000_Series_Processors_QRG.pdf): Documento PDF con información técnica sobre la serie Ryzen 5000.  
+- 🖼️ Imagen ilustrativa del procesador Ryzen (arriba).
 
+---
 
-## Acerca de Ryzen
+## 🧬 Acerca de Ryzen
 
-Ryzen utiliza la arquitectura Zen, que ha tenido varias versiones (Zen, Zen+, Zen 2, Zen 3, Zen 4). Estos procesadores ofrecen múltiples núcleos e hilos, soporte para PCIe 4.0/5.0 y son compatibles con las plataformas AM4 y AM5 dependiendo de la generación.
+Ryzen utiliza la arquitectura **Zen**, con distintas generaciones:
 
-Para más información técnica, revisa el documento `info.pdf`.
+- 🔸 **Zen** (1ª Gen)
+- 🔹 **Zen+** (2ª Gen)
+- 🔸 **Zen 2** (3ª Gen)
+- 🔹 **Zen 3** (4ª Gen)
+- 🔸 **Zen 4** (5ª Gen)
+
+Estas arquitecturas ofrecen:
+
+- ✅ Múltiples núcleos e hilos
+- ✅ Soporte para **PCIe 4.0 / 5.0**
+- ✅ Compatibilidad con plataformas **AM4 y AM5** (dependiendo de la generación)
+
+---
+
+> 📘 Para más información técnica, revisa el archivo PDF vinculado arriba.
