@@ -11,7 +11,7 @@ Los procesadores **Ryzen** de AMD son conocidos por ofrecer **alto rendimiento a
 ## 📂 Contenido del repositorio
 
 - 🧠 [`20659635A_la_AMD_Ryzen_5000_Series_Processors_QRG.pdf`](https://github.com/Kevs-28OR/procesadores-ryzen/blob/main/20659635A_la_AMD_Ryzen_5000_Series_Processors_QRG.pdf): Documento PDF con información técnica sobre la serie Ryzen 5000.  
-- 🖼️ Imagen ilustrativa del procesador Ryzen (arriba).
+  
 
 ---
 
