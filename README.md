@@ -1,13 +1,13 @@
 # procesadores-ryzen
 # Procesadores Ryzen
 
-![Ryzen Logo](imagen/ryzen.jpg)
+
 
 Los procesadores Ryzen de AMD son conocidos por ofrecer alto rendimiento a precios competitivos. Fueron lanzados por primera vez en 2017 y desde entonces han revolucionado el mercado de CPUs para entusiastas, gamers y profesionales.
 
 ## Contenido del repositorio
 
-- `resumen.txt`: Breve resumen de los procesadores Ryzen.
+.
 - `info.pdf`: Documento PDF con información técnica y modelos.
 - `imagen/ryzen.jpg`: Imagen ilustrativa del procesador Ryzen.
 
