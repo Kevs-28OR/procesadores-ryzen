@@ -32,6 +32,3 @@ Estas arquitecturas ofrecen:
 - ✅ Soporte para **PCIe 4.0 / 5.0**
 - ✅ Compatibilidad con plataformas **AM4 y AM5** (dependiendo de la generación)
 
----
-
-> 📘 Para más información técnica, revisa el archivo PDF vinculado arriba.
